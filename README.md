@@ -11,7 +11,7 @@ Run if you've already done prev step:
 ```
 npm run frontend
 ```
-The project will be waiting on localhost:3003
+*The project will be waiting on localhost:3003*
 
 
 To run server side for the first time:
