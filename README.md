@@ -3,12 +3,12 @@
 small socket chat prototype
 
 ### Running frontend server
-To run client side for the first time:
+To run frontend side for the first time:
 ```
 npm run frontend-from-scratch
 ```
 
-Run if you've already done prev step:
+Or use this command if you've already done previous step:
 ```
 npm run frontend
 ```
@@ -19,7 +19,7 @@ To run server side for the first time:
 ```
 npm run backend-from-scratch
 ```
-Run if you've already done prev step:
+Run if you've already done previous step:
 ```
 npm run backend
 ```
